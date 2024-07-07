@@ -1,6 +1,6 @@
 # BBDA_project2_dashboard
 
-This is project 2 rephrase conducted for Big Blue Data Academy.
+This is project 2 conducted for Big Blue Data Academy.
 
 F1 betting odds were analyzed using Power BI for this project.
 
